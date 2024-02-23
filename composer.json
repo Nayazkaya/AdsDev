@@ -1,0 +1,20 @@
+{
+    "name": "nayazkaya/adsdev",
+    "description": "Description de votre projet",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nayazkaya\\AdsDev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ClaustroDDJ"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
